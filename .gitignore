@@ -137,3 +137,6 @@ COVID.DATA.LIC.AGMT.pdf
 json_schema.txt
 metadata.csv
 metadata.readme
+
+# Dataframe Pickles
+*.pkl
